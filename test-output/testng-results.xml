@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T16:49:51 IST" name="Suite" finished-at="2024-08-03T16:50:14 IST" duration-ms="22500">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T16:49:51 IST" name="Test" finished-at="2024-08-03T16:50:14 IST" duration-ms="22500">
+      <class name="com.FitPoe.TestCase.FitPeo_Homepage_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:49:51 IST" name="setUp" finished-at="2024-08-03T16:49:54 IST" duration-ms="2598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePage()[pri:1, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:49:54 IST" name="HomePage" finished-at="2024-08-03T16:49:57 IST" duration-ms="2845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method signature="ClickOnRevenuCalculatorTab()[pri:2, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:49:57 IST" name="ClickOnRevenuCalculatorTab" finished-at="2024-08-03T16:49:57 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnRevenuCalculatorTab -->
+        <test-method signature="Scroll_Down_to_the_Slider_section()[pri:3, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:49:57 IST" name="Scroll_Down_to_the_Slider_section" finished-at="2024-08-03T16:49:57 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scroll_Down_to_the_Slider_section -->
+        <test-method signature="Adjust_the_Slider()[pri:4, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:49:57 IST" name="Adjust_the_Slider" finished-at="2024-08-03T16:50:01 IST" duration-ms="4064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adjust_the_Slider -->
+        <test-method signature="Update_the_Text_Field()[pri:5, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:50:01 IST" name="Update_the_Text_Field" finished-at="2024-08-03T16:50:03 IST" duration-ms="1700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_the_Text_Field -->
+        <test-method signature="Validate_Slider_Value()[pri:6, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:50:03 IST" name="Validate_Slider_Value" finished-at="2024-08-03T16:50:04 IST" duration-ms="1231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Slider_Value -->
+        <test-method signature="Select_CPT_Codes()[pri:7, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:50:04 IST" name="Select_CPT_Codes" finished-at="2024-08-03T16:50:10 IST" duration-ms="6084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_CPT_Codes -->
+        <test-method signature="Total_Recurring_Reimbursement_for_all_Patients_Per_Month()[pri:9, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:50:10 IST" name="Total_Recurring_Reimbursement_for_all_Patients_Per_Month" finished-at="2024-08-03T16:50:14 IST" duration-ms="3778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Total_Recurring_Reimbursement_for_all_Patients_Per_Month -->
+        <test-method signature="Validate_Total_Recurring_Reimbursement()[pri:8, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:50:10 IST" name="Validate_Total_Recurring_Reimbursement" finished-at="2024-08-03T16:50:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Total_Recurring_Reimbursement -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:50:14 IST" name="AfterClass" finished-at="2024-08-03T16:50:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FitPoe.TestCase.FitPeo_Homepage_Test@dd05255]" started-at="2024-08-03T16:50:14 IST" name="tearDown" finished-at="2024-08-03T16:50:15 IST" duration-ms="797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FitPoe.TestCase.FitPeo_Homepage_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
